@@ -1,6 +1,6 @@
-# English Language Pack for Config Studio 🇬🇧
+﻿# English Language Pack for Config Studio 🇬🇧
 
-Official English language pack plugin for [Config Studio](https://github.com/EdvardBaldanov/config-studio).
+Official English language pack plugin for [Config Studio](https://github.com/config-studio/config-studio).
 
 ## 🚀 Features
 - Complete UI translation for Config Studio (settings, file explorer, Monaco editor, security dialogs, toolbar, audit trail).
@@ -11,7 +11,7 @@ Official English language pack plugin for [Config Studio](https://github.com/Edv
 In Config Studio, open **Settings (⚙️) → Plugins**:
 1. Install from GitHub URL:
    ```
-   https://github.com/EdvardBaldanov/config-studio-lang-en
+   https://github.com/config-studio/config-studio-lang-en
    ```
 2. Or download the ZIP / `.cspkg` release and drag-and-drop it into the settings window.
 
