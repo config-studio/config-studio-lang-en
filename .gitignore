@@ -2,3 +2,7 @@
 Thumbs.db
 *.cspkg
 *.zip
+
+# doubled-graph
+.doubled-graph/logs/
+.doubled-graph/cache/
